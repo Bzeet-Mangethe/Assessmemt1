@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ass1BooleanExerc2", "ass1BooleanExerc2\ass1BooleanExerc2.csproj", "{704BBAEA-7C82-446A-9C9E-488E70510326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704BBAEA-7C82-446A-9C9E-488E70510326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704BBAEA-7C82-446A-9C9E-488E70510326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704BBAEA-7C82-446A-9C9E-488E70510326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704BBAEA-7C82-446A-9C9E-488E70510326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933BC703-815A-446F-9D69-ADC3253F411E}
+	EndGlobalSection
+EndGlobal

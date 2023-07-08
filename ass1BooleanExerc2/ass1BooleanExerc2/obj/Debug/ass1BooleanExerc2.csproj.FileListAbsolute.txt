@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Documents\ass1BooleanExerc2\ass1BooleanExerc2\bin\Debug\ass1BooleanExerc2.exe.config
+C:\Users\bhekanimasinga\Documents\ass1BooleanExerc2\ass1BooleanExerc2\bin\Debug\ass1BooleanExerc2.exe
+C:\Users\bhekanimasinga\Documents\ass1BooleanExerc2\ass1BooleanExerc2\bin\Debug\ass1BooleanExerc2.pdb
+C:\Users\bhekanimasinga\Documents\ass1BooleanExerc2\ass1BooleanExerc2\obj\Debug\ass1BooleanExerc2.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass1BooleanExerc2\ass1BooleanExerc2\obj\Debug\ass1BooleanExerc2.exe
+C:\Users\bhekanimasinga\Documents\ass1BooleanExerc2\ass1BooleanExerc2\obj\Debug\ass1BooleanExerc2.pdb
